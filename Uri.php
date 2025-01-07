@@ -1,5 +1,6 @@
 <?php
 
+//Slow Code, dont use these classes, was just for testing and experimenting
 class URI_Var
 {
     public $name = "";
